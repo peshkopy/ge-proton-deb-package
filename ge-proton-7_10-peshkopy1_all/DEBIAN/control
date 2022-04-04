@@ -1,9 +1,0 @@
-Package: ge-proton-7
-Version: 10-peshkopy1
-Architecture: all
-Maintainer: Peshkopy <peshkopy@protonmail.com>
-Depends: bash
-Homepage: https://github.com/peshkopy/ge-proton-deb-package
-Description: Unofficial GE-Proton7-10 Released
- Compatibility tool for Steam Play based on Wine and additional components.
- https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/GE-Proton7-10
