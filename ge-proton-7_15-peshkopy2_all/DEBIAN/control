@@ -1,8 +1,10 @@
 Package: ge-proton-7
-Version: 15-peshkopy1
+Version: 15-peshkopy2
 Section: games
 Priority: optional
 Architecture: all
+Depends: gnupg | gnupg2, apt-transport-https
+Recommends: gpgv
 Maintainer: Peshkopy <peshkopy@protonmail.com>
 Description: Unofficial GE-Proton7-15 Released
  Compatibility tool for Steam Play based on Wine and additional components.

@@ -1,0 +1,2 @@
+
+deb [arch=amd64 signed-by=/usr/share/keyrings/peshkopy-repository-keyring.gpg] https://peshkopy.gitlab.io/debian-package-repo stable main
