@@ -1,5 +1,5 @@
 
-# Unofficial GE Proton deb package
+# Unofficial GE Proton deb package ![latest tag](https://badgen.net/github/tag/peshkopy/ge-proton-deb-package)
 
 The goal of this project is to provide an easy way to install or update [GE Proton](https://github.com/GloriousEggroll/proton-ge-custom) with a deb package for Debian-based Linux distributions like Ubuntu or Linux Mint.
 
@@ -11,7 +11,7 @@ The goal of this project is to provide an easy way to install or update [GE Prot
 
 ## Installation
 
-- Download the latest deb package from the [releases](https://github.com/peshkopy/ge-proton-deb-package/releases) page.
+- Download the latest deb package from this [link](https://peshkopy.gitlab.io/debian-package-repo/pool/main/g/ge-proton-7/ge-proton-7_latest_all.deb).
 - Stop Steam.
 - Run ```sudo dpkg --install ge-proton-<full-version>_all.deb```
 - Start Steam.
