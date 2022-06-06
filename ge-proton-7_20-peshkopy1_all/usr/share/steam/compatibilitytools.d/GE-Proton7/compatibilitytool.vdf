@@ -14,7 +14,7 @@
       "install_path" "."
 
       // For this template, we're going to substitute the display_name key in here, e.g.:
-      "display_name" "GE-Proton7-17"
+      "display_name" "GE-Proton7-20"
 
       "from_oslist"  "windows"
       "to_oslist"    "linux"

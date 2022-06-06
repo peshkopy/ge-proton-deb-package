@@ -1,12 +1,12 @@
 Package: ge-proton-7
-Version: 17-peshkopy1
+Version: 20-peshkopy1
 Section: games
 Priority: optional
 Architecture: all
 Depends: gnupg | gnupg2, apt-transport-https
 Recommends: gpgv
 Maintainer: Peshkopy <peshkopy@protonmail.com>
-Description: Unofficial GE-Proton7-17 Released
+Description: Unofficial GE-Proton7-20 Released
  Compatibility tool for Steam Play based on Wine and additional components.
  https://github.com/GloriousEggroll/proton-ge-custom
 Homepage: https://github.com/peshkopy/ge-proton-deb-package
